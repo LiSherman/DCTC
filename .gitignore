@@ -1,7 +1,9 @@
 # Ignore data directories
-data/
+# data/
+data/**/*.h5
 logs_acdc/
 logs_prostate/
+
 
 # Ignore Python cache files
 __pycache__/
